@@ -1,5 +1,5 @@
 new Typed('#typed', {
-    strings: ['LuaU, C++, Pro Skid.'],
+    strings: ['LuaU, Python, Skid.'],
     typeSpeed: 120,
     backSpeed: 120,
     backDelay: 1000,
